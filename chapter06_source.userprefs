@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GameScript.js">
+    <Files>
+      <File FileName="Assets\Scripts\ClockScript.js" Line="3" Column="2" />
+      <File FileName="Assets\Scripts\GameScript.js" Line="84" Column="4" />
+      <File FileName="Assets\Scripts\TitleGUI.js" Line="13" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
